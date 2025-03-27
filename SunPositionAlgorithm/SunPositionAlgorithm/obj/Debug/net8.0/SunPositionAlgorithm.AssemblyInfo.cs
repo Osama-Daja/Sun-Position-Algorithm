@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SunPositionAlgorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d8afc7e20cf6460b674a81025bb75fc07206bd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SunPositionAlgorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SunPositionAlgorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

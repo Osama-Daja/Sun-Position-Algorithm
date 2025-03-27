@@ -12,3 +12,4 @@ E:\Github\Repository\Sun-Position-Algorithm\SunPositionAlgorithm\SunPositionAlgo
 E:\Github\Repository\Sun-Position-Algorithm\SunPositionAlgorithm\SunPositionAlgorithm\obj\Debug\net8.0\SunPositionAlgorithm.pdb
 E:\Github\Repository\Sun-Position-Algorithm\SunPositionAlgorithm\SunPositionAlgorithm\obj\Debug\net8.0\SunPositionAlgorithm.genruntimeconfig.cache
 E:\Github\Repository\Sun-Position-Algorithm\SunPositionAlgorithm\SunPositionAlgorithm\obj\Debug\net8.0\ref\SunPositionAlgorithm.dll
+E:\Github\Repository\Sun-Position-Algorithm\SunPositionAlgorithm\SunPositionAlgorithm\obj\Debug\net8.0\SunPositionAlgorithm.sourcelink.json

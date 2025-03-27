@@ -7,4 +7,31 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\evening.png" />
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\morning.png" />
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\night.png" />
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\noon.png" />
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\Result\stdout.png" />
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\sunrise.png" />
+    <Content Include="bin\Debug\net8.0\Assets\SuntimeZoneImages\sunset.png" />
+    <Content Include="bin\Debug\net8.0\SunPositionAlgorithm.deps.json" />
+    <Content Include="bin\Debug\net8.0\SunPositionAlgorithm.runtimeconfig.json" />
+    <Content Include="bin\Debug\net8.0\SunPositionAlgorithm.deps.json" />
+    <Content Include="bin\Debug\net8.0\SunPositionAlgorithm.runtimeconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net8.0\SunPositionAlgorithm.dll" />
+    <None Include="bin\Debug\net8.0\SunPositionAlgorithm.exe" />
+    <None Include="bin\Debug\net8.0\SunPositionAlgorithm.pdb" />
+    <None Include="bin\Debug\net8.0\SunPositionAlgorithm.dll" />
+    <None Include="bin\Debug\net8.0\SunPositionAlgorithm.exe" />
+    <None Include="bin\Debug\net8.0\SunPositionAlgorithm.pdb" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\Result\" />
+  </ItemGroup>
+
 </Project>
